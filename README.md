@@ -1,2 +1,2 @@
 # pytorchBERTforQuestionAnswering
-Demonstrating How to Fine Tune and predict using pre-trained BERT model 
+Demonstrating How to Fine Tune and predict from SQAUD  using pre-trained BERT model 
